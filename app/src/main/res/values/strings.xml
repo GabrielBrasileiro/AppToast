@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppToast</string>
+    <string name="input_toast">Put Toast</string>
+    <string name="message_empty">The text box is empty</string>
+</resources>

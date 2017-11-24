@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppToast</string>
+    <string name="input_toast">Inserir Toast</string>
+    <string name="message_empty">Caixa de texto vazia</string>
+</resources>
